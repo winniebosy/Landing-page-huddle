@@ -1,0 +1,19 @@
+ *, ::before, ::after {
+   margin:0;
+   padding:0;
+   box-sizing: border-box;
+ }
+
+ :root {
+--body-color: hsl(257, 40%, 49%);
+--secondary-color: hsl(300, 69%, 71%);
+--font-family: [Poppins](https://fonts.google.com/specimen/Poppins), Arial;
+--font-weight-normal: 400;
+--font-weight-semibold: 600;
+--font-family-body: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
+
+ }
+
+ body {
+    background-color: aqua
+ }
